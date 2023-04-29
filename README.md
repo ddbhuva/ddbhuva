@@ -19,7 +19,10 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300"/>
 </div>
 ### 👨‍💻: About Me :
+
 - 🌕 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from 🇮🇳.
+
+- 🌝 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from 🇮🇳.
 
 - 🔭: I’m working as a 💻 Software Engineer and contributing to frontend building 📱Mobile applications.
 
