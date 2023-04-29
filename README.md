@@ -20,8 +20,6 @@
 </div>
 ### 👨‍💻: About Me :
 
-- 🌕 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from 🇮🇳.
-
 - 🌝 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from 🇮🇳.
 
 - 🔭: I’m working as a 💻 Software Engineer and contributing to frontend building 📱Mobile applications.
